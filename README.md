@@ -111,5 +111,4 @@ Customize with slicers for interactive filtering.
 🙋‍♂️ **Author**
 Name : Gaurav Gaikwad
 Email : gauravgaikwad1609@gmail.com
-Aspiring Business Analyst | SQL | Power BI | Excel | Data Insights
 
