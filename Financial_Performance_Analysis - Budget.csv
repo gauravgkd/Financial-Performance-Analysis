@@ -1,0 +1,9 @@
+department,month,budgeted_expense,budgeted_revenue
+Marketing,Jan,50000,100000
+Marketing,Feb,55000,110000
+Sales,Jan,40000,90000
+Sales,Feb,45000,95000
+HR,Jan,30000,0
+HR,Feb,32000,0
+R&D,Jan,70000,0
+R&D,Feb,75000,0

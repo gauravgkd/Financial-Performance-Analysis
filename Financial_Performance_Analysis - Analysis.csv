@@ -1,0 +1,9 @@
+Department,Month,Budgeted Expense,Budgeted Revenue,Actual Expense,Actual Revenue,Expense Variance %,Revenue Variance %,Cost Overrun,Profit,Profit Margin %
+Marketing,Jan,50000,100000,60000,95000,20,-5,Yes,35000,36.84
+Marketing,Feb,55000,110000,53000,115000,-3.64,4.55,No,62000,53.91
+Sales,Jan,40000,90000,42000,88000,5,-2.22,Yes,46000,52.27
+Sales,Feb,45000,95000,46000,97000,2.22,2.11,Yes,51000,52.58
+HR,Jan,30000,0,28000,0,-6.67,0,No,-28000,0
+HR,Feb,32000,0,35000,0,9.38,0,Yes,-35000,0
+R&D,Jan,70000,0,71000,0,1.43,0,Yes,-71000,0
+R&D,Feb,75000,0,73000,0,-2.67,0,No,-73000,0

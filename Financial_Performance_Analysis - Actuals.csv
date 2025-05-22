@@ -1,0 +1,9 @@
+department,month,actual_expense,actual_revenue
+Marketing,Jan,60000,95000
+Marketing,Feb,53000,115000
+Sales,Jan,42000,88000
+Sales,Feb,46000,97000
+HR,Jan,28000,0
+HR,Feb,35000,0
+R&D,Jan,71000,0
+R&D,Feb,73000,0
