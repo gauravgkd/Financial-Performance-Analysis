@@ -1,8 +1,10 @@
 💼 **Financial Performance Analysis using SQL & Power BI**
 
+
 📌 **Project Overview**
 This project is focused on analyzing a company's financial performance across different departments using SQL and visualizing the insights through Power BI dashboards. 
 The objective is to provide key financial metrics like total profit, budget vs actual comparisons, and department-level profitability for better strategic decision-making.
+
 
 
 📊 **Features**
@@ -15,6 +17,7 @@ SQL-based data extraction and transformation
 Clean and structured financial reporting
 
 
+
 📁 **Dataset Description**
 The dataset finance_data contains monthly financial records for departments including HR, Marketing, Sales, and R&D. The key columns include:
 
@@ -24,6 +27,7 @@ budgeted_expense	Planned expenses for the month
 actual_expense	Actual expenses for the month
 budgeted_revenue	Planned revenue for the month
 actual_revenue	Actual revenue for the month
+
 
 
 📌 **Key Performance Indicators (KPIs)**
@@ -42,12 +46,14 @@ Total Budgeted vs. Actual Revenue: Comparison of projected vs. earned revenue.
 Profit Margin (%) by Department: Profitability percentage per department based on revenue.
 
 
+
 📈 **Power BI Dashboard Highlights**
 KPI Cards: Quick insights into total profit, variances, and department performance.
 
 Bar Charts: Comparative view of expenses and revenue by department.
 
 Filters: Slicers for department and month to allow drilldown and focused analysis.
+
 
 
 🛠️ **Tools and Technologies Used**
@@ -60,16 +66,30 @@ Data Visualization: Microsoft Power BI
 Documentation: MS Word / Markdown
 
 
-🖼️ Screenshots Included
+🖼️ **Screenshots Included**
 
-![Screenshot (32)](https://github.com/user-attachments/assets/187b8c7d-c3c3-4619-949c-84470c701215)
-
-![Screenshot (31)](https://github.com/user-attachments/assets/9aa0b13f-f44a-42a1-a496-7f2cfc90a517)
+![Dashboard](https://github.com/user-attachments/assets/4f87d55a-fc40-4564-b0fa-11f60211d141)
 
 
+![KPI's](https://github.com/user-attachments/assets/e3406248-380a-4c94-861e-490c2fd76559)
 
 
+![Financial Performance Analysis](https://github.com/user-attachments/assets/030447d6-98db-4065-b852-fa18935565b1)
 
+
+![Finance_Data](https://github.com/user-attachments/assets/a93df3d3-0e44-4164-baff-6af0d22b1e0a)
+
+
+![Folder Structure](https://github.com/user-attachments/assets/15ce3012-cbd1-444c-b6f8-69a8167aeb50)
+
+
+![KPI Outcomes](https://github.com/user-attachments/assets/e0472584-b949-4bfd-9a1c-47f19a54635c)
+
+
+![SQL Analysis Report](https://github.com/user-attachments/assets/0dd4c508-93a1-4e12-bd3f-302ee8e7a6fa)
+
+
+![Project Documentation](https://github.com/user-attachments/assets/2cd68117-b055-414b-9153-b6bb7b8fe1fd)
 
 
 ✅ **How to Use**
@@ -88,7 +108,7 @@ Customize with slicers for interactive filtering.
 ✅ Completed: Power BI Dashboard
 🚀 Next: Automate refresh and enable role-level access
 
-🙋‍♂️ Author
+🙋‍♂️ **Author**
 Name : Gaurav Gaikwad
 Email : gauravgaikwad1609@gmail.com
 Aspiring Business Analyst | SQL | Power BI | Excel | Data Insights
