@@ -92,6 +92,9 @@ Documentation: MS Word / Markdown
 ![Project Documentation](https://github.com/user-attachments/assets/2cd68117-b055-414b-9153-b6bb7b8fe1fd)
 
 
+![Financial_Perfomance_Analytics_Dump](https://github.com/user-attachments/assets/35846759-79d5-40bc-b17d-73e6986baac1)
+
+
 ✅ **How to Use**
 Run SQL queries on finance_data to extract KPI results.
 
